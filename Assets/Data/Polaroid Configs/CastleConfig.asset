@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c635a1a344bacb4abfbd08304b7180e, type: 3}
+  m_Name: CastleConfig
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: f791d6bb44ee84648a764cfdee8abde8, type: 3}
+  Foreground: {fileID: 0}
+  BrownChickens:
+  - {fileID: 21300000, guid: 44c5f511ca9d011429db6f74a4a20819, type: 3}
+  - {fileID: 21300000, guid: 697fec38ec54e6342b89ee638c622847, type: 3}
+  - {fileID: 21300000, guid: a96e219d5f1c0384c9c8c2a1ef5572a1, type: 3}
+  - {fileID: 21300000, guid: 34396f3f70cfde14aa66d3619efe9fee, type: 3}
+  - {fileID: 21300000, guid: 941eab7444cf7f84fa544b82d26152d2, type: 3}
+  - {fileID: 21300000, guid: 280d5731a1ee94645a7df4477e6708a2, type: 3}
+  - {fileID: 21300000, guid: 7a292f25b43d57249bea9463bea7dada, type: 3}
+  - {fileID: 21300000, guid: 3a465d4697893454a8a5d3d0d65ea2e4, type: 3}
+  - {fileID: 21300000, guid: efa98dac6c7727242ac76a01a6506484, type: 3}
+  - {fileID: 21300000, guid: 93f31eeb51aff9747a3be7ffd28b8d12, type: 3}
+  - {fileID: 21300000, guid: 6422f9cd616fd3c43942ec5376b69874, type: 3}
+  - {fileID: 21300000, guid: 1f5a839406276b34fa3a9f3314a13ad6, type: 3}
+  - {fileID: 21300000, guid: 18e25b3c96d9c62418f826f06499fb63, type: 3}
+  - {fileID: 21300000, guid: 37953df17d73624458e73b3702c72fc8, type: 3}
+  - {fileID: 21300000, guid: 8aa182a5c25b0ef468589ce6dde565e8, type: 3}
+  - {fileID: 21300000, guid: f02d4eeebe7eb774fbfa1332006ca706, type: 3}
+  - {fileID: 21300000, guid: 1b302fefeb84de84fb5bddf5f5e87f76, type: 3}
+  - {fileID: 21300000, guid: e2aa68384f8bdfe45a0ec5a69cacaba6, type: 3}
+  - {fileID: 21300000, guid: 7e457a66c8c995644b392b3f7047a0ca, type: 3}
+  - {fileID: 21300000, guid: 953ca1bb42d574a4fb38ba75e31bcdcc, type: 3}
+  - {fileID: 21300000, guid: 03fdb5e51e51e364fb688de07fb6eb6f, type: 3}
+  - {fileID: 21300000, guid: 267bc57fc2dc47a49be4bbfe9a1609d7, type: 3}
+  - {fileID: 21300000, guid: 753c1cccb3d1b094da225808a0930c75, type: 3}
+  - {fileID: 21300000, guid: 6416957f48de93947acc2d60f3683b6d, type: 3}
+  - {fileID: 21300000, guid: c8104d6a920efaf489454cf7dba6e6d1, type: 3}
+  - {fileID: 21300000, guid: 89e23314d5f9fd54c9f50b8568c21b3c, type: 3}
+  - {fileID: 21300000, guid: 166582a1a23fddb44a1cd00c097af5ce, type: 3}
+  - {fileID: 21300000, guid: d6374a3706dfec64c95a18b2d26bb15f, type: 3}
+  - {fileID: 21300000, guid: ea69369e533c2c64bac8d81142a761e3, type: 3}
+  WhiteChickens:
+  - {fileID: 21300000, guid: 34f947b38bfc4b943ae1edef6425049c, type: 3}
+  - {fileID: 21300000, guid: 2c49cf70459c9e2449d5ba7accd6f932, type: 3}
+  - {fileID: 21300000, guid: d4a0c434250eaa34fa2cb5f0f5b3c554, type: 3}
+  - {fileID: 21300000, guid: ca672868ee8f4354aa41ab0cfb064299, type: 3}
+  - {fileID: 21300000, guid: ab9d4cdcb792f71468efbc4460179b75, type: 3}
+  - {fileID: 21300000, guid: 8f06501ae6b011f4c9d99e7aabeb7f27, type: 3}
+  Stinger: {fileID: 8300000, guid: 40cd865e5270f1b429ac3f97a2be93d4, type: 3}

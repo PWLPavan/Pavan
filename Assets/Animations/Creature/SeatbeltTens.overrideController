@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SeatbeltTens
+  m_Controller: {fileID: 9100000, guid: d3cd5687852f94b44a3ac611626c4836, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7dc51f37c3898d448ad1876a1864e999, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c20dd1a6c187aa148bfa933a1e990694, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5547a699bbffcf04e928d046a9d58c9f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c1f3e2150964c174791a3c5878a40573, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0afb0bc3598c4a544939c60d95a8eba8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa6400e8ca0ae1e40b375d3f748646d7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dcfc63ba0ccb45641ab8b2c9f29c0d06, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 14a1c75f72ade8646a89f8cf5916541d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 648ef3a3e75193a4abecc0c775fc5268, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6476d5d43a4423845a061a781bdbcd82, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6476d5d43a4423845a061a781bdbcd82, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6476d5d43a4423845a061a781bdbcd82, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c1f3e2150964c174791a3c5878a40573, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c1f3e2150964c174791a3c5878a40573, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 14a1c75f72ade8646a89f8cf5916541d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 14a1c75f72ade8646a89f8cf5916541d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c20dd1a6c187aa148bfa933a1e990694, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c20dd1a6c187aa148bfa933a1e990694, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fa6400e8ca0ae1e40b375d3f748646d7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa6400e8ca0ae1e40b375d3f748646d7, type: 2}

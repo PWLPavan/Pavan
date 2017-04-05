@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 8c7aefe641506fb44b22ac9ec3dcc158
+timeCreated: 1442866989
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-Menus_0
+    21300002: UI-Menus_1
+    21300004: UI-Menus_2
+    21300006: UI-Menus_3
+    21300008: UI-Menus_4
+    21300010: UI-Menus_5
+    21300012: UI-Menus_6
+    21300014: UI-Menus_7
+    21300016: UI-Menus_8
+    21300018: UI-Menus_9
+    21300020: UI-Menus_10
+    21300022: UI-Menus_11
+    21300024: UI-Menus_12
+    21300026: UI-Menus_13
+    21300028: UI-Menus_soundOnUp
+    21300030: UI-Menus_soundOnDown
+    21300032: UI-Menus_soundOffUp
+    21300034: UI-Menus_soundOffDown
+    21300036: UI-Menus_18
+    21300038: UI-Menus_19
+    21300040: UI-Menus_20
+    21300042: UI-Menus_musicOnUp
+    21300044: UI-Menus_musicOnDown
+    21300046: UI-Menus_musicOffUp
+    21300048: UI-Menus_musicOffDown
+    21300050: UI-Menus_25
+    21300052: UI-Menus_26
+    21300054: UI-Menus_27
+    21300056: UI-Menus_28
+    21300058: UI-Menus_29
+    21300060: UI-Menus_30
+    21300062: UI-Menus_31
+    21300064: UI-Menus_32
+    21300066: UI-Menus_14
+    21300068: UI-Menus_15
+    21300070: UI-Menus_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-Menus_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1323
+        width: 472
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_1
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1324
+        width: 472
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1374
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_3
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1374
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_4
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1263
+        width: 433
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_5
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1142
+        width: 316
+        height: 398
+      alignment: 9
+      pivot: {x: .773245871, y: .15587306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_6
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1203
+        width: 380
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_7
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 1453
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1014
+        width: 700
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1014
+        width: 700
+        height: 263
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_10
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1105
+        width: 372
+        height: 295
+      alignment: 9
+      pivot: {x: .163836077, y: .257766992}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 888
+        width: 116
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 888
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_13
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 385
+        width: 768
+        height: 648
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_soundOnUp
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 602
+        width: 224
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_soundOnDown
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 602
+        width: 224
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_soundOffUp
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 602
+        width: 225
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_soundOffDown
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 602
+        width: 225
+        height: 239
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_18
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 603
+        width: 264
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_19
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 603
+        width: 264
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_20
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 613
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_musicOnUp
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 345
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_musicOnDown
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 345
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_musicOffUp
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 345
+        width: 225
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_musicOffDown
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 345
+        width: 225
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 345
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_26
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 345
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_27
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 375
+        width: 202
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 244
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_29
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 84
+        width: 244
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_30
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 90
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_31
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 90
+        width: 224
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_32
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 384
+        width: 86
+        height: 648
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 888
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_15
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1012
+        width: 175
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-Menus_16
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1011
+        width: 175
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_popup
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

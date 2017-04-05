@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: acb69d78265972b4ca64c935c3d7d1ca
+timeCreated: 1439826822
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eggIngame
+    21300002: eggCanvas
+    21300004: eggCounter
+    21300006: glowLarge
+    21300008: eggShine
+    21300010: eggSlot
+    21300012: eggCountNew
+    21300014: eggNest
+    21300016: eggCountOld
+    21300018: stampEmpty
+    21300020: stampFull
+    21300022: glowSmall
+    21300024: suitcaseButton
+    21300026: stampSlot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eggIngame
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 610
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggCanvas
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 541
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggCounter
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 51
+        width: 152
+        height: 648
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glowLarge
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 386
+        width: 289
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggShine
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 525
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggSlot
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggCountNew
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 466
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggNest
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 386
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: eggCountOld
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 382
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampEmpty
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampFull
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 209
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glowSmall
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 273
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suitcaseButton
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 214
+        height: 179
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampSlot
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 72
+        width: 132
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

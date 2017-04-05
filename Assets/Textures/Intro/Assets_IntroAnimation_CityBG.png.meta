@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 0b809063b8eed8c42a5925efd112b1e6
+timeCreated: 1439826813
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Intro_wing
+    21300002: Intro_Cloud
+    21300004: Intro_Bus
+    21300006: Intro_Sun
+    21300008: Intro_Car
+    21300010: Intro Wall
+    21300012: Intro_Street
+    21300014: Intro_CarPurple
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Intro_wing
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1271
+        width: 60
+        height: 23
+      alignment: 9
+      pivot: {x: .938429654, y: .864300251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Cloud
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1232
+        width: 330
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bus
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1044
+        width: 480
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Sun
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1003
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Car
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1005
+        width: 335
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro Wall
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 401
+        width: 863
+        height: 567
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Street
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 128
+        width: 857
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_CarPurple
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1045
+        width: 335
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_intro
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

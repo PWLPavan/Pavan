@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: f97977e8b0b761a45b18634060a8e507
+timeCreated: 1439826822
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chickenHead
+    21300002: chickenEyeball
+    21300004: chickenPupil
+    21300006: chickenLeg
+    21300008: chickenCrown
+    21300010: chickenBeak1
+    21300012: chickenBeak2
+    21300014: chickenBody1
+    21300016: chickenTail
+    21300018: chickenBody2
+    21300020: chickenBeak3
+    21300022: chickenEyeClosed
+    21300024: chickenBGLine
+    21300026: chickenEyelid
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chickenHead
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 339
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenEyeball
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 407
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenPupil
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 426
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenLeg
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 430
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenCrown
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 332
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBeak1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 340
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBeak2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 339
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBody1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 250
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenTail
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 197
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBody2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 13
+        width: 251
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBeak3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 141
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenEyeClosed
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 55
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenBGLine
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 24
+        width: 37
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chickenEyelid
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 469
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_intro
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

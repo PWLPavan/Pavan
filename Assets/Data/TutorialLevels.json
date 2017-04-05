@@ -1,0 +1,11 @@
+{
+  "tensPlane": {
+    "expression": "10",
+    "tensCount": 0,
+    "onesCount": 0,
+    "tensQueueEnabled": false,
+    "onesQueueEnabled": true,
+	"startHandhold": true
+  }
+
+}

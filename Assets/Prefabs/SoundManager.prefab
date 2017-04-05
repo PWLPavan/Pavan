@@ -1,0 +1,528 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &142406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 443622}
+  - 114: {fileID: 11498742}
+  - 82: {fileID: 8216144}
+  - 82: {fileID: 8238938}
+  - 82: {fileID: 8277448}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &443622
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142406}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 438.690094, y: 213.475555, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!82 &8216144
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142406}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+--- !u!82 &8238938
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142406}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+--- !u!82 &8277448
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142406}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+--- !u!114 &11498742
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52f49aa3049bf07499ce92cc54fcf7be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ambient: {fileID: 0}
+  music: {fileID: 8216144}
+  musicFX: {fileID: 8277448}
+  sfx: {fileID: 8238938}
+  vo: {fileID: 0}
+  carEnter: {fileID: 8300000, guid: e0c7e85ef82768b4aaa66f3ad2d1b8c0, type: 3}
+  carExit: {fileID: 8300000, guid: 0bf42da7169116b4c9ade57af57379d9, type: 3}
+  carIdle: {fileID: 8300000, guid: 408f66a957f5dd94fbee43bee454b58a, type: 3}
+  chickenDrag:
+  - {fileID: 8300000, guid: 962ca5fba74a369489b519b3accff883, type: 3}
+  - {fileID: 8300000, guid: 7e7fd21090883414f9d8b259b635fcae, type: 3}
+  - {fileID: 8300000, guid: 8b07889df44a7cb4299653bb0246dac7, type: 3}
+  - {fileID: 8300000, guid: e9d783fc08288934781d9eb14bf68fdd, type: 3}
+  - {fileID: 8300000, guid: b35dc71771b72574a86175aa5ebc16f6, type: 3}
+  - {fileID: 8300000, guid: 1f57bc270e563b84f972ac923e226d7e, type: 3}
+  - {fileID: 8300000, guid: 4780a6f7c9e9a3743846c617ed84f339, type: 3}
+  chickenHappy: {fileID: 8300000, guid: f178b6c12ab6bc9468c3f2a8791575f8, type: 3}
+  chickenHover: {fileID: 8300000, guid: 038951ae97d82104ca4d6c5d8d3c2211, type: 3}
+  chickenSnapBack: {fileID: 8300000, guid: 561cd3e6f76f45c40a7adac8e74f172b, type: 3}
+  chickenSelect: {fileID: 8300000, guid: c7c1e9d5ba245554ab212d81f98909a3, type: 3}
+  chickenCount:
+  - {fileID: 8300000, guid: f5df2bf75c39e94429cde80060c98eb7, type: 3}
+  - {fileID: 8300000, guid: 0ffef83cfeb53e84bbf3975cf8d4e12d, type: 3}
+  - {fileID: 8300000, guid: 0506684faace8014c94d7f7c683c2033, type: 3}
+  - {fileID: 8300000, guid: a4add8199d68dc841880661efa12f2d4, type: 3}
+  - {fileID: 8300000, guid: 909677ba7ebdc484d9504dee29c083de, type: 3}
+  - {fileID: 8300000, guid: 430762e5b08aa6e4ab391262ac4a84c0, type: 3}
+  - {fileID: 8300000, guid: 6c3610cfab260cb4fb709be94172974b, type: 3}
+  - {fileID: 8300000, guid: 3babae6e0f4c1bc46b9d56bd77108d7d, type: 3}
+  chickenAngryCount:
+  - {fileID: 8300000, guid: 94f798386ca724b499ab783a241e2ee9, type: 3}
+  - {fileID: 8300000, guid: 6f0a021569751f848a4b46799b824dd9, type: 3}
+  - {fileID: 8300000, guid: bf949759f1527d74f99b53c9991d8fa6, type: 3}
+  nestCount:
+  - {fileID: 8300000, guid: 99afa6f2a7adbec4b857972890a9c0ed, type: 3}
+  - {fileID: 8300000, guid: 0a05f276cf5abb649b6c025b003b206a, type: 3}
+  - {fileID: 8300000, guid: 0837829bcaa107147acb82ab21b8cca7, type: 3}
+  - {fileID: 8300000, guid: 3db7e37dac1689844990b77b5bdc94eb, type: 3}
+  - {fileID: 8300000, guid: e5cf73f7cf401a743919a97a4449cc34, type: 3}
+  chickenConvertToOnes: {fileID: 8300000, guid: cf45dcdd0577f404d8513234f3afe301,
+    type: 3}
+  chickenConvertToTens: {fileID: 8300000, guid: df58c6afdd0abc64d9600bec704f5513,
+    type: 3}
+  chickenCorrect1: {fileID: 8300000, guid: ad3f15747edc7064eaee56001b8bb6e7, type: 3}
+  chickenCorrect2: {fileID: 8300000, guid: b241e69d1b907364683d44e77b3c0ad0, type: 3}
+  chickenCorrect3: {fileID: 8300000, guid: d53a4788012abc34889ce4e74f8f58a4, type: 3}
+  chickenSeatbeltBuckle: {fileID: 8300000, guid: 2d484290a6fcaf641a42840ac39e2693,
+    type: 3}
+  chickenSeatbeltStretch: {fileID: 8300000, guid: cbcf3cb3621a2b349bc7d21ece9256a5,
+    type: 3}
+  chickenSeatbeltImpact: {fileID: 8300000, guid: fcb6f8a5a55ac30468fcf9451a871b13,
+    type: 3}
+  chickenSubtractZone:
+  - {fileID: 8300000, guid: 70c3857d636c9e043a2ca04dc98a2c69, type: 3}
+  - {fileID: 8300000, guid: 3a67ee14889f3ba4dae8ba704a8a5e92, type: 3}
+  buttonClick: {fileID: 8300000, guid: e6666a1987726f24088916555babbae4, type: 3}
+  counterUpdates: {fileID: 8300000, guid: c7c1e9d5ba245554ab212d81f98909a3, type: 3}
+  numberHighlight: {fileID: 8300000, guid: 77e6a9fa582b5cc438db58a7044a3ee5, type: 3}
+  planeEnter: {fileID: 8300000, guid: 24636a604525f584bb2f0ad2585074d8, type: 3}
+  planeExit: {fileID: 8300000, guid: a9d5834ea1f9b44498994e87b6ce54f5, type: 3}
+  polaroidEnter: {fileID: 8300000, guid: 228c166c19dff624682412fdc3f84384, type: 3}
+  polaroidExit: {fileID: 8300000, guid: 614a7a475cc6acd409a290bee7b099e9, type: 3}
+  correctAnswer: {fileID: 8300000, guid: fc869341dc1b89240a5412adac7744a7, type: 3}
+  incorrectAnswer: {fileID: 8300000, guid: 928f347fc7904f74d93057cee5e78640, type: 3}
+  hudTapEgg:
+  - {fileID: 8300000, guid: 93459d64719d94f41a2d636db6a49eac, type: 3}
+  - {fileID: 8300000, guid: 70161945246bea547b4db3c88fe154a6, type: 3}
+  - {fileID: 8300000, guid: bf1019df24064a54d8c6c1528424dfc8, type: 3}
+  kiwiChirp: {fileID: 8300000, guid: 1595bce45c4c7aa43b58d3414ee5a39e, type: 3}
+  kiwiCount:
+  - {fileID: 8300000, guid: aa0730135d8a99e438d78c4366903d21, type: 3}
+  - {fileID: 8300000, guid: 6ebd1e187d39b134d94df32fef4749f7, type: 3}
+  - {fileID: 8300000, guid: f83798e695d82f64eaaa86cd4699c336, type: 3}
+  - {fileID: 8300000, guid: 7c7c468570b3f604fac6b7d3f3f90388, type: 3}
+  pilotHappy: {fileID: 8300000, guid: 804abaa8cf31e1b47a318d57f03a5567, type: 3}
+  pilotSad: {fileID: 8300000, guid: 2f5e3a7262d12a34abf4fb42c492bcff, type: 3}
+  pilotSayProblem: {fileID: 8300000, guid: 2cb3fe2ea9f4a274da29348e8a57f318, type: 3}
+  pilotFixed: {fileID: 8300000, guid: d4bb2840f05c94e46843f2315ebafbd9, type: 3}
+  pilotAngry: {fileID: 8300000, guid: d69704fd72f459d4a923a52c30104aec, type: 3}
+  eggSpawn: {fileID: 0}
+  eggFly: {fileID: 8300000, guid: 3529a4bd66509bf4aac93e7d21d6ca0d, type: 3}
+  eggEarn:
+  - {fileID: 8300000, guid: 93459d64719d94f41a2d636db6a49eac, type: 3}
+  - {fileID: 8300000, guid: 70161945246bea547b4db3c88fe154a6, type: 3}
+  - {fileID: 8300000, guid: bf1019df24064a54d8c6c1528424dfc8, type: 3}
+  eggLose: {fileID: 8300000, guid: 497ea96687abd87459e8b89bf5039c79, type: 3}
+  eggMeterTop: {fileID: 8300000, guid: 5236bb5708f3e49409d3090055f04200, type: 3}
+  eggMeterOpen: {fileID: 0}
+  eggMeterClose: {fileID: 0}
+  eggMeterClear: {fileID: 8300000, guid: 614a7a475cc6acd409a290bee7b099e9, type: 3}
+  stampEarn: {fileID: 8300000, guid: fd7989dd27625c24ea51f19de4ea3e07, type: 3}
+  stampLift:
+  - {fileID: 8300000, guid: e319e0e8f0d21d3429ed8518e31755cc, type: 3}
+  stampDrop:
+  - {fileID: 8300000, guid: 243a266abb3897647aa9937004543e7f, type: 3}
+  stampControlsOn: {fileID: 8300000, guid: 654eaf9e31d07b94f87259614730b3c4, type: 3}
+  stampControlsTouch:
+  - {fileID: 8300000, guid: 083ffafbd74917348afca18db8d13966, type: 3}
+  - {fileID: 8300000, guid: 5c700da1da172d648be611367a314b78, type: 3}
+  - {fileID: 8300000, guid: 316f9b3fb65e84f4eb42a2f540ab4a75, type: 3}
+  - {fileID: 8300000, guid: 5bd9eee104269c948b12fe2b5b5985bc, type: 3}
+  stampSlide:
+  - {fileID: 8300000, guid: 25524738854e2164380e464861174beb, type: 3}
+  - {fileID: 8300000, guid: 747490caaf5b9e54cba7a716d410fcf2, type: 3}
+  - {fileID: 8300000, guid: aa9e5b01d77f91e479c35c0c8dd1836f, type: 3}
+  suitcaseOpen: {fileID: 8300000, guid: d651b6590d048094c8aff82d379243f3, type: 3}
+  suitcaseClose: {fileID: 8300000, guid: f4e41748036ff9043a09964b6a8c03a0, type: 3}
+  gameAmbience: {fileID: 8300000, guid: ba67ace5d33d99646bb02de43f0ee96d, type: 3}
+  gameMusic: {fileID: 8300000, guid: aafaac0d09bf4cf4c8d80a527c5fed3e, type: 3}
+  minigameReveal: {fileID: 8300000, guid: e071b4441aa99f646b9999845dbdcecb, type: 3}
+  minigamePenalty: {fileID: 8300000, guid: 7deca19a51a7c4e4dac84eddaae5bfae, type: 3}
+  minigameMusic: {fileID: 8300000, guid: 3575bfea892eb2e41a1b99a15de4e281, type: 3}
+  minigameStinger: {fileID: 8300000, guid: aef8ad8cf7963174ebfd93ceea7b712c, type: 3}
+  minigamePanic: {fileID: 8300000, guid: 8af8a1d578917944dbc96dbc3511f53f, type: 3}
+  minigameDropNest: {fileID: 8300000, guid: ccbf520e5131d434580c4d299ceba381, type: 3}
+  minigameDropEmpty: {fileID: 0}
+  TransitionTime: 1
+  DuckVolume: .449999988
+  DuckTime: .75
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: stampLift.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: stampDrop.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: stampSlide.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: chickenAngryCount.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: stampControlsTouch.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: chickenSubtractZone.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: eggMeterTop
+      value: 
+      objectReference: {fileID: 8300000, guid: fd7989dd27625c24ea51f19de4ea3e07, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampEarn
+      value: 
+      objectReference: {fileID: 8300000, guid: 5236bb5708f3e49409d3090055f04200, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampLift.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: e319e0e8f0d21d3429ed8518e31755cc, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampDrop.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 243a266abb3897647aa9937004543e7f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: minigameReveal
+      value: 
+      objectReference: {fileID: 8300000, guid: e071b4441aa99f646b9999845dbdcecb, type: 3}
+    - target: {fileID: 0}
+      propertyPath: eggLose
+      value: 
+      objectReference: {fileID: 8300000, guid: f2d37b9dc0ee47842919b6b92efeb966, type: 3}
+    - target: {fileID: 0}
+      propertyPath: minigamePenalty
+      value: 
+      objectReference: {fileID: 8300000, guid: 7deca19a51a7c4e4dac84eddaae5bfae, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampControlsTouch.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 083ffafbd74917348afca18db8d13966, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampControlsTouch.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 5c700da1da172d648be611367a314b78, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampControlsTouch.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: 316f9b3fb65e84f4eb42a2f540ab4a75, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampControlsTouch.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: 5bd9eee104269c948b12fe2b5b5985bc, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenAngryCount.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 1eccbc5c9592086498ca8722c6b1271f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenAngryCount.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: a93151475c050c84aaeac87b35306327, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenAngryCount.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: c63644d60626e3b479d9a5f42b74146f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenAngryCount.Array.data[3]
+      value: 
+      objectReference: {fileID: 8300000, guid: 6d627f951d44e414c88a4dab1ee03894, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSeatbeltBuckle
+      value: 
+      objectReference: {fileID: 8300000, guid: 2d484290a6fcaf641a42840ac39e2693, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSeatbeltStretch
+      value: 
+      objectReference: {fileID: 8300000, guid: 8f889507168a47e4db6cb6f2acfd80a6, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSeatbeltImpact
+      value: 
+      objectReference: {fileID: 8300000, guid: fcb6f8a5a55ac30468fcf9451a871b13, type: 3}
+    - target: {fileID: 0}
+      propertyPath: minigameDropEmpty
+      value: 
+      objectReference: {fileID: 8300000, guid: d40d39365368573419b814c5970fdf4c, type: 3}
+    - target: {fileID: 0}
+      propertyPath: minigameDropNest
+      value: 
+      objectReference: {fileID: 8300000, guid: ccbf520e5131d434580c4d299ceba381, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSnapBack
+      value: 
+      objectReference: {fileID: 8300000, guid: ccbf520e5131d434580c4d299ceba381, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSubtractZone.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 70c3857d636c9e043a2ca04dc98a2c69, type: 3}
+    - target: {fileID: 0}
+      propertyPath: chickenSubtractZone.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 3a67ee14889f3ba4dae8ba704a8a5e92, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampSlide.Array.data[0]
+      value: 
+      objectReference: {fileID: 8300000, guid: 25524738854e2164380e464861174beb, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampSlide.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 747490caaf5b9e54cba7a716d410fcf2, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampSlide.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: aa9e5b01d77f91e479c35c0c8dd1836f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampLift.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 747490caaf5b9e54cba7a716d410fcf2, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampLift.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: aa9e5b01d77f91e479c35c0c8dd1836f, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampDrop.Array.data[1]
+      value: 
+      objectReference: {fileID: 8300000, guid: 25524738854e2164380e464861174beb, type: 3}
+    - target: {fileID: 0}
+      propertyPath: stampDrop.Array.data[2]
+      value: 
+      objectReference: {fileID: 8300000, guid: aa9e5b01d77f91e479c35c0c8dd1836f, type: 3}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 142406}
+  m_IsPrefabParent: 1

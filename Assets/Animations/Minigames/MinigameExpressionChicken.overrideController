@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MinigameExpressionChicken
+  m_Controller: {fileID: 9100000, guid: 4dfec8c41597cdc42a1d6317ed8025b8, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c4064fcb6fcef2d49bcba5f76acd378a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c4064fcb6fcef2d49bcba5f76acd378a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 97d25f006174d554cbeac35bd4866b62, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b76ebfc78f558134db76acb8bfffcdb3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a86dd708e8e4dd4980895737ff08887, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ffa6597d16d982546bfa21d13ad7d5db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1a9f4c2e015d9ef47b14d846f66231a5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4325f4eda687ce418c3f7eb88fb6418, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 388cc0f2915964d4e83d7f311b4eaece, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa607ada5b305404c9151733132f3102, type: 2}

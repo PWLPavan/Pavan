@@ -1,0 +1,23 @@
+<font>
+	<info face="C:\Users\jhoran\Google Drive\Joe_EkStep\Fonts\minigameNumbers-export" size="150" />
+	<common lineHeight="150" scaleW="512" scaleH="512" pages="1" />
+	<pages>
+		<page id="0" file="C:\Users\jhoran\Google Drive\Joe_EkStep\Fonts\minigameNumbers-export.png" />
+	</pages>
+	<chars count="12">
+		<char id="48" x="0" y="0" width="127" height="152" xoffset="0" yoffset="0" xadvance="128" /><!-- 0 -->
+		<char id="49" x="373" y="310" width="73" height="148" xoffset="0" yoffset="2" xadvance="74" /><!-- 1 -->
+		<char id="50" x="256" y="0" width="113" height="150" xoffset="0" yoffset="0" xadvance="114" /><!-- 2 -->
+		<char id="51" x="251" y="310" width="117" height="152" xoffset="0" yoffset="-2" xadvance="118" /><!-- 3 -->
+		<char id="52" x="0" y="157" width="126" height="148" xoffset="0" yoffset="2" xadvance="127" /><!-- 4 -->
+		<char id="53" x="255" y="157" width="117" height="148" xoffset="0" yoffset="2" xadvance="118" /><!-- 5 -->
+		<char id="54" x="132" y="0" width="119" height="152" xoffset="0" yoffset="0" xadvance="120" /><!-- 6 -->
+		<char id="55" x="131" y="157" width="119" height="148" xoffset="0" yoffset="2" xadvance="120" /><!-- 7 -->
+		<char id="56" x="0" y="310" width="122" height="152" xoffset="0" yoffset="0" xadvance="123" /><!-- 8 -->
+		<char id="57" x="127" y="310" width="119" height="150" xoffset="0" yoffset="0" xadvance="120" /><!-- 9 -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

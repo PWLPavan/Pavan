@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811216029625ec344a849452734deff4, type: 3}
+  m_Name: KannadaLanguage
+  m_EditorClassIdentifier: 
+  Code: kn
+  SystemCodes: 
+  TitleImage: {fileID: 21300000, guid: 3663720507f93214eb59b929b15a8b17, type: 3}
+  FlagImage: {fileID: 21300066, guid: 8c7aefe641506fb44b22ac9ec3dcc158, type: 3}
+  Font: {fileID: 12800000, guid: 4662c4e4eff48794f96295340f51935a, type: 3}
+  LineSpacing: .699999988
+  LanguageFontSize: 110
+  ResetFontSize: 60
+  GenieFontSize: 110
+  JSONFile: {fileID: 4900000, guid: 2b76475900abd8249a726916757372eb, type: 3}
+  OptionsText: {fileID: 21300000, guid: d1731ad7f59904c47b58c70a2a9ba7c9, type: 3}
+  PausedText: {fileID: 21300000, guid: 43bce27af43ffda4ab341527dd397d23, type: 3}
+  LoadingText: {fileID: 21300000, guid: 51e73d6996d01a44d839d48cb543ae31, type: 3}
+  LanguageText: {fileID: 21300000, guid: d0c6f5d2338940c4e957d43263c5bde4, type: 3}
+  ResetText: {fileID: 21300000, guid: 937ff2b5fdcce8f42b342b7c7c86dd64, type: 3}
+  ReturnToGenieText: {fileID: 21300000, guid: 991db4aae8a9f2c45be1ac62270f7838, type: 3}

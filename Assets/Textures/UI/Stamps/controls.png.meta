@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 4f67f6f60ebd3e14ba908247c3246327
+timeCreated: 1440607602
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stampControls_rotate
+    21300002: stampControls_rotateAnim
+    21300004: stampControls_scaleBG
+    21300006: stampControls_scaleBtn
+    21300008: stampControls_scaleAnim
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stampControls_rotate
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampControls_rotateAnim
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 308
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampControls_scaleBG
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 33
+        width: 91
+        height: 330
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampControls_scaleBtn
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 287
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stampControls_scaleAnim
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 190
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_stamps
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

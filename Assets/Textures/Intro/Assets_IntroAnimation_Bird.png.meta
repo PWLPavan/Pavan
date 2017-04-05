@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: d58e1d9f54448d14b977bc6dc81032b3
+timeCreated: 1439826830
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Intro_Bird_head
+    21300002: Intro_Bird_Eyelid
+    21300004: Intro_Bird_Pebble
+    21300006: Intro_Bird_Hat
+    21300008: Intro_Bird_Body
+    21300010: Intro_Bird_Leg
+    21300012: Intro_Bird_Wing
+    21300014: Intro_Bird_WingSuitcase
+    21300016: Intro_Bird_headMouth
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Intro_Bird_head
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 417
+        width: 112
+        height: 79
+      alignment: 9
+      pivot: {x: .360456944, y: .480216503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Eyelid
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 441
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Pebble
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 438
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Hat
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 423
+        width: 140
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Body
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 313
+        width: 163
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Leg
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 237
+        width: 21
+        height: 60
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_Wing
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 236
+        width: 108
+        height: 47
+      alignment: 9
+      pivot: {x: .897956014, y: .815901101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_WingSuitcase
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112
+        width: 110
+        height: 104
+      alignment: 9
+      pivot: {x: .912032366, y: .913261712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Intro_Bird_headMouth
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 314
+        width: 112
+        height: 79
+      alignment: 9
+      pivot: {x: .360457152, y: .499999613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_intro
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

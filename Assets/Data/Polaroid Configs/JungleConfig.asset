@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c635a1a344bacb4abfbd08304b7180e, type: 3}
+  m_Name: JungleConfig
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 85094959acbc8a24bb21dbf2e55cdcfe, type: 3}
+  Foreground: {fileID: 21300000, guid: d287441638306d949a20b063bdeef573, type: 3}
+  BrownChickens:
+  - {fileID: 21300000, guid: 7e457a66c8c995644b392b3f7047a0ca, type: 3}
+  - {fileID: 21300000, guid: 697fec38ec54e6342b89ee638c622847, type: 3}
+  - {fileID: 21300000, guid: 64dd4906d6c053e448e86ceb6fc0bbdc, type: 3}
+  - {fileID: 21300000, guid: 166582a1a23fddb44a1cd00c097af5ce, type: 3}
+  - {fileID: 21300000, guid: 280d5731a1ee94645a7df4477e6708a2, type: 3}
+  - {fileID: 21300000, guid: 7a292f25b43d57249bea9463bea7dada, type: 3}
+  - {fileID: 21300000, guid: 3a465d4697893454a8a5d3d0d65ea2e4, type: 3}
+  - {fileID: 21300000, guid: 93f31eeb51aff9747a3be7ffd28b8d12, type: 3}
+  - {fileID: 21300000, guid: efa98dac6c7727242ac76a01a6506484, type: 3}
+  - {fileID: 21300000, guid: ea69369e533c2c64bac8d81142a761e3, type: 3}
+  - {fileID: 21300000, guid: e2aa68384f8bdfe45a0ec5a69cacaba6, type: 3}
+  - {fileID: 21300000, guid: 18e25b3c96d9c62418f826f06499fb63, type: 3}
+  - {fileID: 21300000, guid: 37953df17d73624458e73b3702c72fc8, type: 3}
+  - {fileID: 21300000, guid: f02d4eeebe7eb774fbfa1332006ca706, type: 3}
+  - {fileID: 21300000, guid: 1b302fefeb84de84fb5bddf5f5e87f76, type: 3}
+  WhiteChickens:
+  - {fileID: 21300000, guid: 34f947b38bfc4b943ae1edef6425049c, type: 3}
+  - {fileID: 21300000, guid: 2c49cf70459c9e2449d5ba7accd6f932, type: 3}
+  - {fileID: 21300000, guid: d4a0c434250eaa34fa2cb5f0f5b3c554, type: 3}
+  - {fileID: 21300000, guid: ca672868ee8f4354aa41ab0cfb064299, type: 3}
+  - {fileID: 21300000, guid: ab9d4cdcb792f71468efbc4460179b75, type: 3}
+  - {fileID: 21300000, guid: 8f06501ae6b011f4c9d99e7aabeb7f27, type: 3}
+  Stinger: {fileID: 8300000, guid: 05863ed785f23164885bed1d4d8c5c92, type: 3}

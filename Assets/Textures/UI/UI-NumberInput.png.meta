@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: f3fad2c4bcd65834ba8bfa7c7fdcc723
+timeCreated: 1440021212
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-NumberInput_CancelUp
+    21300002: UI-NumberInput_CancelDown
+    21300004: UI-NumberInput_OpenUp
+    21300006: UI-NumberInput_OpenDown
+    21300008: UI-NumberInput_IncUp
+    21300010: UI-NumberInput_IncDown
+    21300012: UI-NumberInput_DecUp
+    21300014: UI-NumberInput_DecDown
+    21300016: UI-NumberInput_BG
+    21300018: UI-NumberInput_Counter
+    21300020: UI-NumberInput_Ones
+    21300022: UI-NumberInput_OpenDisabled
+    21300024: UI-NumberInput_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-NumberInput_CancelUp
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 729
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_CancelDown
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 729
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_OpenUp
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 729
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_OpenDown
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 728
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_IncUp
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 124
+        width: 191
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_IncDown
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 124
+        width: 191
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_DecUp
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 123
+        width: 191
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_DecDown
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 124
+        width: 191
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_BG
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 369
+        width: 1774
+        height: 301
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_Counter
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 557
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_OpenDisabled
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 728
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-NumberInput_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 318
+        width: 571
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

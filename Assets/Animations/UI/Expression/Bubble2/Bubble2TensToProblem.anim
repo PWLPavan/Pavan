@@ -1,0 +1,576 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bubble2TensToProblem
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: {x: -.0700000003, y: .330000013, z: 0}
+        inSlope: {x: -.00599989388, y: .78000015, z: 0}
+        outSlope: {x: -.00599989388, y: .78000015, z: 0}
+        tangentMode: 0
+      - time: 1.16666663
+        value: {x: -.0729999468, y: .720000029, z: 0}
+        inSlope: {x: -.00599989388, y: .78000015, z: 0}
+        outSlope: {x: -.00599989388, y: .78000015, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/ExpTensColumn/ExpTopTen
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: {x: -.0729999542, y: -.180999994, z: 0}
+        inSlope: {x: -2.68220958e-07, y: 0, z: 0}
+        outSlope: {x: -2.68220958e-07, y: 0, z: 0}
+        tangentMode: 0
+      - time: .833333313
+        value: {x: -.0729999989, y: -.180999994, z: 0}
+        inSlope: {x: -2.68220958e-07, y: 0, z: 0}
+        outSlope: {x: -2.68220958e-07, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: {x: .150000006, y: .150000006, z: 1}
+        inSlope: {x: .667756498, y: .667756319, z: 4.45170832}
+        outSlope: {x: .667756498, y: .667756319, z: 4.45170832}
+        tangentMode: 0
+      - time: .833333313
+        value: {x: .261292726, y: .261292696, z: 1.74195123}
+        inSlope: {x: -.0290970206, y: -.0290970802, z: -.193980694}
+        outSlope: {x: -.0290970206, y: -.0290970802, z: -.193980694}
+        tangentMode: 0
+      - time: 1.04999995
+        value: {x: .104003459, y: .104003444, z: .693356216}
+        inSlope: {x: -.243458569, y: -.24345839, z: -1.62305582}
+        outSlope: {x: -.243458569, y: -.24345839, z: -1.62305582}
+        tangentMode: 0
+      - time: 1.29999995
+        value: {x: .163761809, y: .163761869, z: 1.09174573}
+        inSlope: {x: .0584110916, y: .0584112704, z: .389408469}
+        outSlope: {x: .0584110916, y: .0584112704, z: .389408469}
+        tangentMode: 0
+      - time: 1.54999995
+        value: {x: .133209005, y: .13320908, z: .888060451}
+        inSlope: {x: -.0424489453, y: -.0424489975, z: -.282993317}
+        outSlope: {x: -.0424489453, y: -.0424489975, z: -.282993317}
+        tangentMode: 0
+      - time: 2
+        value: {x: .150000006, y: .150000006, z: 1}
+        inSlope: {x: .0373133309, y: .037313167, z: .248754531}
+        outSlope: {x: .0373133309, y: .037313167, z: .248754531}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.r
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.g
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.b
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 0
+        inSlope: 2.00000024
+        outSlope: 2.00000024
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 2.00000024
+        outSlope: 2.00000024
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.a
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 274188439
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 2108656497
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 1303350129
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 1571785585
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 1547179558
+      attribute: 1840221041
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: -.0700000003
+        inSlope: -.00599989388
+        outSlope: -.00599989388
+        tangentMode: 10
+      - time: 1.16666663
+        value: -.0729999468
+        inSlope: -.00599989388
+        outSlope: -.00599989388
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/ExpTensColumn/ExpTopTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: .330000013
+        inSlope: .78000015
+        outSlope: .78000015
+        tangentMode: 10
+      - time: 1.16666663
+        value: .720000029
+        inSlope: .78000015
+        outSlope: .78000015
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/ExpTensColumn/ExpTopTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/ExpTensColumn/ExpTopTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.r
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.g
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.b
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 0
+        inSlope: 2.00000024
+        outSlope: 2.00000024
+        tangentMode: 10
+      - time: 1.16666663
+        value: 1
+        inSlope: 2.00000024
+        outSlope: 2.00000024
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.a
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: -.0729999542
+        inSlope: -2.68220958e-07
+        outSlope: -2.68220958e-07
+        tangentMode: 10
+      - time: .833333313
+        value: -.0729999989
+        inSlope: -2.68220958e-07
+        outSlope: -2.68220958e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: -.180999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: -.180999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .833333313
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: .150000006
+        inSlope: .667756498
+        outSlope: .667756498
+        tangentMode: 10
+      - time: .833333313
+        value: .261292726
+        inSlope: -.0290970206
+        outSlope: -.0290970206
+        tangentMode: 10
+      - time: 1.04999995
+        value: .104003459
+        inSlope: -.243458569
+        outSlope: -.243458569
+        tangentMode: 10
+      - time: 1.29999995
+        value: .163761809
+        inSlope: .0584110916
+        outSlope: .0584110916
+        tangentMode: 10
+      - time: 1.54999995
+        value: .133209005
+        inSlope: -.0424489453
+        outSlope: -.0424489453
+        tangentMode: 10
+      - time: 2
+        value: .150000006
+        inSlope: .0373133309
+        outSlope: .0373133309
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: .150000006
+        inSlope: .667756319
+        outSlope: .667756319
+        tangentMode: 10
+      - time: .833333313
+        value: .261292696
+        inSlope: -.0290970802
+        outSlope: -.0290970802
+        tangentMode: 10
+      - time: 1.04999995
+        value: .104003444
+        inSlope: -.24345839
+        outSlope: -.24345839
+        tangentMode: 10
+      - time: 1.29999995
+        value: .163761869
+        inSlope: .0584112704
+        outSlope: .0584112704
+        tangentMode: 10
+      - time: 1.54999995
+        value: .13320908
+        inSlope: -.0424489975
+        outSlope: -.0424489975
+        tangentMode: 10
+      - time: 2
+        value: .150000006
+        inSlope: .037313167
+        outSlope: .037313167
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .666666687
+        value: 1
+        inSlope: 4.45170832
+        outSlope: 4.45170832
+        tangentMode: 10
+      - time: .833333313
+        value: 1.74195123
+        inSlope: -.193980694
+        outSlope: -.193980694
+        tangentMode: 10
+      - time: 1.04999995
+        value: .693356216
+        inSlope: -1.62305582
+        outSlope: -1.62305582
+        tangentMode: 10
+      - time: 1.29999995
+        value: 1.09174573
+        inSlope: .389408469
+        outSlope: .389408469
+        tangentMode: 10
+      - time: 1.54999995
+        value: .888060451
+        inSlope: -.282993317
+        outSlope: -.282993317
+        tangentMode: 10
+      - time: 2
+        value: 1
+        inSlope: .248754531
+        outSlope: .248754531
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BubbleHolder/ExpTensColumn/ExpBottomTen
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

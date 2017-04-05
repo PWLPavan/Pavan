@@ -1,0 +1,744 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bubble2StretchTens
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.95000005, y: 0, z: 0}
+        inSlope: {x: -2.20927763, y: 0, z: 0}
+        outSlope: {x: -2.20927763, y: 0, z: 0}
+        tangentMode: 0
+      - time: .383333325
+        value: {x: -3.79688978, y: 0, z: 0}
+        inSlope: {x: -2.10912752, y: 0, z: 0}
+        outSlope: {x: -2.10912752, y: 0, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: -4.53351498, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: -6.21999979, y: 0, z: 0}
+        inSlope: {x: -5.05945396, y: 0, z: 0}
+        outSlope: {x: -5.05945396, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.5
+        value: {x: -6.21999979, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/BG2/bubbleStretch_left
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.78999996, y: 0, z: 0}
+        inSlope: {x: -2.20927835, y: 0, z: 0}
+        outSlope: {x: -2.20927835, y: 0, z: 0}
+        tangentMode: 0
+      - time: .383333325
+        value: {x: -3.63688993, y: 0, z: 0}
+        inSlope: {x: -2.109128, y: 0, z: 0}
+        outSlope: {x: -2.109128, y: 0, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: -4.37351513, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: -6.05999994, y: 0, z: 0}
+        inSlope: {x: -5.05945396, y: 0, z: 0}
+        outSlope: {x: -5.05945396, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.5
+        value: {x: -6.05999994, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/BG2/bubbleStretch_mid
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.67000008, y: 0, z: 0}
+        inSlope: {x: 1.88070595, y: 0, z: 0}
+        outSlope: {x: 1.88070595, y: 0, z: 0}
+        tangentMode: 0
+      - time: .383333325
+        value: {x: 3.39093733, y: 0, z: 0}
+        inSlope: {x: 1.91829157, y: 0, z: 0}
+        outSlope: {x: 1.91829157, y: 0, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: 4.10809231, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: 5.75, y: 0, z: 0}
+        inSlope: {x: 4.9257226, y: 0, z: 0}
+        outSlope: {x: 4.9257226, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.5
+        value: {x: 5.75, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/BG2/bubbleStretch_right
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -2.11999989, y: -.180000007, z: 0}
+        inSlope: {x: -2.22661352, y: -7.77451916e-08, z: 0}
+        outSlope: {x: -2.22661352, y: -7.77451916e-08, z: 0}
+        tangentMode: 0
+      - time: .383333325
+        value: {x: -2.97353506, y: -.180000037, z: 0}
+        inSlope: {x: -2.09845901, y: -5.91923595e-08, z: 0}
+        outSlope: {x: -2.09845901, y: -5.91923595e-08, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: -3.69598007, y: -.180000052, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: -5.3499999, y: -.180000067, z: 0}
+        inSlope: {x: -4.96205902, y: -4.470348e-08, z: 0}
+        outSlope: {x: -4.96205902, y: -4.470348e-08, z: 0}
+        tangentMode: 0
+      - time: 1.5
+        value: {x: -5.3499999, y: -.180000067, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/ExpOp
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.74343705, y: 1, z: 1}
+        inSlope: {x: 2.1135149, y: 0, z: 0}
+        outSlope: {x: 2.1135149, y: 0, z: 0}
+        tangentMode: 0
+      - time: .383333325
+        value: {x: 3.55361772, y: 1, z: 1}
+        inSlope: {x: 2.08466482, y: 0, z: 0}
+        outSlope: {x: 2.08466482, y: 0, z: 0}
+        tangentMode: 0
+      - time: .75
+        value: {x: 4.30741644, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .916666687
+        value: {x: 6.03321981, y: 1, z: 1}
+        inSlope: {x: 5.17740965, y: 0, z: 0}
+        outSlope: {x: 5.17740965, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.5
+        value: {x: 6.03321981, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: BubbleHolder/BG2/bubbleStretch_mid
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 4105029934
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 896486227
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 737893279
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3463022586
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 896486227
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1.5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.95000005
+        inSlope: -2.20927763
+        outSlope: -2.20927763
+        tangentMode: 10
+      - time: .383333325
+        value: -3.79688978
+        inSlope: -2.10912752
+        outSlope: -2.10912752
+        tangentMode: 10
+      - time: .75
+        value: -4.53351498
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: -6.21999979
+        inSlope: -5.05945396
+        outSlope: -5.05945396
+        tangentMode: 10
+      - time: 1.5
+        value: -6.21999979
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/BG2/bubbleStretch_left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/BG2/bubbleStretch_left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/BG2/bubbleStretch_left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.78999996
+        inSlope: -2.20927835
+        outSlope: -2.20927835
+        tangentMode: 10
+      - time: .383333325
+        value: -3.63688993
+        inSlope: -2.109128
+        outSlope: -2.109128
+        tangentMode: 10
+      - time: .75
+        value: -4.37351513
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: -6.05999994
+        inSlope: -5.05945396
+        outSlope: -5.05945396
+        tangentMode: 10
+      - time: 1.5
+        value: -6.05999994
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.74343705
+        inSlope: 2.1135149
+        outSlope: 2.1135149
+        tangentMode: 10
+      - time: .383333325
+        value: 3.55361772
+        inSlope: 2.08466482
+        outSlope: 2.08466482
+        tangentMode: 10
+      - time: .75
+        value: 4.30741644
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 6.03321981
+        inSlope: 5.17740965
+        outSlope: 5.17740965
+        tangentMode: 10
+      - time: 1.5
+        value: 6.03321981
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: BubbleHolder/BG2/bubbleStretch_mid
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 2.67000008
+        inSlope: 1.88070595
+        outSlope: 1.88070595
+        tangentMode: 10
+      - time: .383333325
+        value: 3.39093733
+        inSlope: 1.91829157
+        outSlope: 1.91829157
+        tangentMode: 10
+      - time: .75
+        value: 4.10809231
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 5.75
+        inSlope: 4.9257226
+        outSlope: 4.9257226
+        tangentMode: 10
+      - time: 1.5
+        value: 5.75
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/BG2/bubbleStretch_right
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/BG2/bubbleStretch_right
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/BG2/bubbleStretch_right
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -2.11999989
+        inSlope: -2.22661352
+        outSlope: -2.22661352
+        tangentMode: 10
+      - time: .383333325
+        value: -2.97353506
+        inSlope: -2.09845901
+        outSlope: -2.09845901
+        tangentMode: 10
+      - time: .75
+        value: -3.69598007
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: -5.3499999
+        inSlope: -4.96205902
+        outSlope: -4.96205902
+        tangentMode: 10
+      - time: 1.5
+        value: -5.3499999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: BubbleHolder/ExpOp
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.180000007
+        inSlope: -7.77451916e-08
+        outSlope: -7.77451916e-08
+        tangentMode: 10
+      - time: .383333325
+        value: -.180000037
+        inSlope: -5.91923595e-08
+        outSlope: -5.91923595e-08
+        tangentMode: 10
+      - time: .75
+        value: -.180000052
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: -.180000067
+        inSlope: -4.470348e-08
+        outSlope: -4.470348e-08
+        tangentMode: 10
+      - time: 1.5
+        value: -.180000067
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: BubbleHolder/ExpOp
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .383333325
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .75
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .916666687
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: BubbleHolder/ExpOp
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

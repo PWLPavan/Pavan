@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c635a1a344bacb4abfbd08304b7180e, type: 3}
+  m_Name: CarnivalConfig
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: adb98b76b78efb746870d4f3d729c595, type: 3}
+  Foreground: {fileID: 21300000, guid: 267f1c437723c6e45b76070dd3c314ec, type: 3}
+  BrownChickens:
+  - {fileID: 21300000, guid: 18e25b3c96d9c62418f826f06499fb63, type: 3}
+  - {fileID: 21300000, guid: 03fdb5e51e51e364fb688de07fb6eb6f, type: 3}
+  - {fileID: 21300000, guid: 267bc57fc2dc47a49be4bbfe9a1609d7, type: 3}
+  - {fileID: 21300000, guid: 44c5f511ca9d011429db6f74a4a20819, type: 3}
+  - {fileID: 21300000, guid: b7e4af45bd60300458f4be65e8e60604, type: 3}
+  - {fileID: 21300000, guid: e15ac7fbffd8b6d49abcf19d3bd4aa17, type: 3}
+  - {fileID: 21300000, guid: a38a1377b8a753d4895fadda2da7ecfa, type: 3}
+  - {fileID: 21300000, guid: 34396f3f70cfde14aa66d3619efe9fee, type: 3}
+  - {fileID: 21300000, guid: 941eab7444cf7f84fa544b82d26152d2, type: 3}
+  - {fileID: 21300000, guid: 280d5731a1ee94645a7df4477e6708a2, type: 3}
+  - {fileID: 21300000, guid: 7a292f25b43d57249bea9463bea7dada, type: 3}
+  - {fileID: 21300000, guid: ea69369e533c2c64bac8d81142a761e3, type: 3}
+  - {fileID: 21300000, guid: c8104d6a920efaf489454cf7dba6e6d1, type: 3}
+  - {fileID: 21300000, guid: efa98dac6c7727242ac76a01a6506484, type: 3}
+  - {fileID: 21300000, guid: 93f31eeb51aff9747a3be7ffd28b8d12, type: 3}
+  - {fileID: 21300000, guid: 6422f9cd616fd3c43942ec5376b69874, type: 3}
+  - {fileID: 21300000, guid: 166582a1a23fddb44a1cd00c097af5ce, type: 3}
+  - {fileID: 21300000, guid: 37953df17d73624458e73b3702c72fc8, type: 3}
+  WhiteChickens:
+  - {fileID: 21300000, guid: 34f947b38bfc4b943ae1edef6425049c, type: 3}
+  - {fileID: 21300000, guid: 2c49cf70459c9e2449d5ba7accd6f932, type: 3}
+  - {fileID: 21300000, guid: ca672868ee8f4354aa41ab0cfb064299, type: 3}
+  - {fileID: 21300000, guid: d4a0c434250eaa34fa2cb5f0f5b3c554, type: 3}
+  - {fileID: 21300000, guid: ab9d4cdcb792f71468efbc4460179b75, type: 3}
+  - {fileID: 21300000, guid: 8f06501ae6b011f4c9d99e7aabeb7f27, type: 3}
+  Stinger: {fileID: 8300000, guid: 922fb001f523a3c4e89bdd6d64ca6dcd, type: 3}

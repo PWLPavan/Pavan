@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: cf29302c6d7292d46ae6c11c98f29b2e
+timeCreated: 1441924888
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI-TenMinigame_nestShadow
+    21300002: UI-TenMinigame_nestSeat
+    21300004: UI-TenMinigame_nest
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI-TenMinigame_nestShadow
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 904
+        height: 495
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-TenMinigame_nestSeat
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 858
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-TenMinigame_nest
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 557
+        width: 772
+        height: 454
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_minigame
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

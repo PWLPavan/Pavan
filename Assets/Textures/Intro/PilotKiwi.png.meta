@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 6da86f5e89a7ada4583b03a573f9c449
+timeCreated: 1439826829
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IntroPilot_cap
+    21300002: IntroPilot
+    21300004: IntroKiwi_Cap
+    21300006: PilotKiwi_3
+    21300008: IntroKiwi
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IntroPilot_cap
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 385
+        width: 205
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IntroPilot
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 212
+        width: 393
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IntroKiwi_Cap
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 278
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PilotKiwi_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 289
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IntroKiwi
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 199
+        height: 169
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_intro
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 8eb983eb1b7e2534b85ed6b2c9246eed
+timeCreated: 1439826826
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: columnHighlight
+    21300002: tenStroke
+    21300004: oneStroke
+    21300006: car10
+    21300008: car1_3
+    21300010: oneHighlight
+    21300012: tenHighlight
+    21300014: creatureDefault
+    21300016: creatureSadGold
+    21300018: creatureSelected
+    21300020: creatureHappy
+    21300022: creatureSquish
+    21300024: creatureSad
+    21300026: creatureTen
+    21300028: launchBtnXOverlay
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 32
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: columnHighlight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 514
+        height: 633
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tenStroke
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oneStroke
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 361
+        width: 192
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+    - name: car10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 357
+        width: 260
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: car1_3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 810
+        width: 474
+        height: 214
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oneHighlight
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 572
+        width: 236
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tenHighlight
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 569
+        width: 240
+        height: 241
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureDefault
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 249
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureSadGold
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureSelected
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 219
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureHappy
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 220
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureSquish
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 228
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureSad
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 215
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creatureTen
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 131
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: launchBtnXOverlay
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 129
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

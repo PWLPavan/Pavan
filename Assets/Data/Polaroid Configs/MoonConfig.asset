@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c635a1a344bacb4abfbd08304b7180e, type: 3}
+  m_Name: MoonConfig
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 90687cf17cc6c374d8a6e051a9f9db9d, type: 3}
+  Foreground: {fileID: 0}
+  BrownChickens:
+  - {fileID: 21300000, guid: 03fdb5e51e51e364fb688de07fb6eb6f, type: 3}
+  - {fileID: 21300000, guid: a96e219d5f1c0384c9c8c2a1ef5572a1, type: 3}
+  - {fileID: 21300000, guid: a38a1377b8a753d4895fadda2da7ecfa, type: 3}
+  - {fileID: 21300000, guid: 280d5731a1ee94645a7df4477e6708a2, type: 3}
+  - {fileID: 21300000, guid: 7a292f25b43d57249bea9463bea7dada, type: 3}
+  - {fileID: 21300000, guid: 93f31eeb51aff9747a3be7ffd28b8d12, type: 3}
+  - {fileID: 21300000, guid: 6416957f48de93947acc2d60f3683b6d, type: 3}
+  - {fileID: 21300000, guid: cd6b21c574db0c746b85636febd435c8, type: 3}
+  - {fileID: 21300000, guid: b7e4af45bd60300458f4be65e8e60604, type: 3}
+  - {fileID: 21300000, guid: 166582a1a23fddb44a1cd00c097af5ce, type: 3}
+  - {fileID: 21300000, guid: ea69369e533c2c64bac8d81142a761e3, type: 3}
+  WhiteChickens:
+  - {fileID: 21300000, guid: 34f947b38bfc4b943ae1edef6425049c, type: 3}
+  - {fileID: 21300000, guid: 2c49cf70459c9e2449d5ba7accd6f932, type: 3}
+  - {fileID: 21300000, guid: ca672868ee8f4354aa41ab0cfb064299, type: 3}
+  Stinger: {fileID: 8300000, guid: e18c97c946cb1774fa302a5e4a4cf8f2, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811216029625ec344a849452734deff4, type: 3}
+  m_Name: EnglishLanguage
+  m_EditorClassIdentifier: 
+  Code: en
+  SystemCodes: 0a000000
+  TitleImage: {fileID: 21300000, guid: ad1ee253b401391458b1d9e7688e2be8, type: 3}
+  FlagImage: {fileID: 21300024, guid: 8c7aefe641506fb44b22ac9ec3dcc158, type: 3}
+  Font: {fileID: 12800000, guid: 0c8a444db61c02b40a0b3ebb1b8fc629, type: 3}
+  LineSpacing: 1
+  LanguageFontSize: 60
+  ResetFontSize: 60
+  GenieFontSize: 80
+  JSONFile: {fileID: 4900000, guid: 492da8b1a4023c74aa661d6c87f50f4e, type: 3}
+  OptionsText: {fileID: 21300000, guid: fbe3e70dbaf5f234791d24e19b65df96, type: 3}
+  PausedText: {fileID: 21300000, guid: 1a7dfa2b168450646b7f3c0a6462004d, type: 3}
+  LoadingText: {fileID: 21300000, guid: 9e4878b5197afb94185749832af5a7ff, type: 3}
+  LanguageText: {fileID: 21300000, guid: 2141fb76e2e883c429aa52822d3d8457, type: 3}
+  ResetText: {fileID: 21300000, guid: 2468648a60562294293ffc612281e754, type: 3}
+  ReturnToGenieText: {fileID: 21300000, guid: 8e49817820cc1224b9f38c16564118c5, type: 3}

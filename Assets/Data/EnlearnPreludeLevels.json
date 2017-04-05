@@ -1,0 +1,72 @@
+{
+  "0": {
+    "expression": "1",
+    "tensCount": 0,
+    "onesCount": 0,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "startHandhold": true
+  },
+
+  "1": {
+    "expression": "5",
+    "tensCount": 0,
+    "onesCount": 0,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true
+  },
+
+  "2": {
+    "expression": "1 + 1",
+    "tensCount": 0,
+    "onesCount": 1,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "seatbelts": true,
+	"startHandhold": true
+  },
+
+  "3": {
+    "expression": "1 + 3",
+    "tensCount": 0,
+    "onesCount": 1,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "seatbelts": true
+  },
+
+  "4": {
+    "expression": "2 + 2",
+    "tensCount": 0,
+    "onesCount": 2,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "seatbelts": true
+  },
+
+  "5": {
+    "expression": "4",
+    "tensCount": 0,
+    "onesCount": 0,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "twoPartProblem": true
+  },
+
+  "6": {
+    "expression": "4 + 4",
+    "tensCount": 0,
+    "onesCount": 4,
+    "tensColumnEnabled": false,
+    "tensQueueEnabled": true,
+    "onesQueueEnabled": true,
+    "seatbelts": true
+  }
+
+}

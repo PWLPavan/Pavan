@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: QueueEndlessAnim_Brown
+  m_Controller: {fileID: 9100000, guid: b8a09a5dd5e1e544a80144b51693923a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 072771f5ae3550f43bb05fd23067bfda, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: acedb64c49c270c42a7b7f9d66fde3b6, type: 2}

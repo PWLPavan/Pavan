@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 44ed2ae0448b14a41bd15b28ff770267
+timeCreated: 1440790776
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nestBrown
+    21300002: nestWhite
+    21300004: nestGold
+    21300006: nestChickenBrown
+    21300008: nestChickenWhite
+    21300010: nestGoldCover
+    21300012: nestReady
+    21300014: nestChickenBrown_Eye
+    21300016: nestChickenWhite_eye
+    21300018: nestBrown_eyes
+    21300020: nestWhite_white
+    21300022: nestReady_white
+    21300024: nestReady_brown
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nestBrown
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 306
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestWhite
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 306
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestGold
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestChickenBrown
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 344
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestChickenWhite
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 344
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestGoldCover
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 234
+        width: 138
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestReady
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 19
+        width: 124
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestChickenBrown_Eye
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 344
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestChickenWhite_eye
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 344
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestBrown_eyes
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 208
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestWhite_white
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 208
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestReady_white
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 124
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nestReady_brown
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 19
+        width: 124
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_chickens
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

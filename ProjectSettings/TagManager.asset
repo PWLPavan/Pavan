@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Creature
+  - GameScreen
+  - SuccessChicken
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2492884245
+    locked: 0
+  - name: Queue
+    uniqueID: 3412280511
+    locked: 0
+  - name: Ship
+    uniqueID: 2217483999
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DragGroups
+    uniqueID: 3111790629
+    locked: 0
+  - name: HUD
+    uniqueID: 2907480223
+    locked: 0

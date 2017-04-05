@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: f21b733d871ad4447986a8be5216b6e9
+timeCreated: 1439849498
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CabinCount
+    21300002: HUDBack
+    21300004: launchBack
+    21300006: pauseUp
+    21300008: pauseDown
+    21300010: resetUp
+    21300012: resetDown
+    21300014: launchUp
+    21300016: launchDown
+    21300018: convertLeftUp
+    21300020: convertLeftDown
+    21300022: convertRightUp
+    21300024: convertRightDown
+    21300026: cancelUp
+    21300028: cancelDown
+    21300030: cancelBack
+    21300032: checkmark
+    21300034: star
+    21300036: UI-export_0
+    21300038: UI-export_1
+    21300040: launchDisabled
+    21300042: UI-export_2
+    21300044: convertLeftDisabled
+    21300046: convertRightDisabled
+    21300048: startBtnUp
+    21300050: startBtnDown
+    21300052: UI-export_3
+    21300054: pauseDisabled
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HUDBack
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 283
+        width: 299
+        height: 430
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: launchBack
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 424
+        width: 357
+        height: 319
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pauseUp
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 221
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pauseDown
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 221
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: resetUp
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 34
+        width: 157
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: resetDown
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 34
+        width: 157
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: launchUp
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 42
+        width: 214
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: launchDown
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 42
+        width: 214
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cancelUp
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 229
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cancelDown
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 39
+        width: 156
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cancelBack
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 429
+        width: 210
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: star
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 645
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-export_0
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 229
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI-export_1
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 39
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: launchDisabled
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 436
+        width: 213
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: startBtnUp
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 241
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: startBtnDown
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 66
+        width: 256
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pauseDisabled
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 437
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: pack_UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
